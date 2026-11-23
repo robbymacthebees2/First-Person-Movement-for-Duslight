@@ -2,6 +2,6 @@
   "id": "com.twilitrealm.first_person_controls",
   "name": "First Person Controls",
   "version": "@PROJECT_VERSION@",
-  "author": "Community",
+  "author": "RobinTheSoundsmith",
   "description": "Use the right stick to look and the left stick to move while Link is in first person."
 }
