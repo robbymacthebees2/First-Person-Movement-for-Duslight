@@ -3,5 +3,5 @@
   "name": "First Person Controls",
   "version": "@PROJECT_VERSION@",
   "author": "RobinTheSoundsmith",
-  "description": "Use the right stick to look and the left stick to move while Link is in first person."
+  "description": "Combat, climbing, jumping, and sprinting are now allowed in first person."
 }
